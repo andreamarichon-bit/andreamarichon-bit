@@ -1,6 +1,6 @@
 # Hi, I'm Andrea 👋
 
-Aerospace Engineering graduate from UABC · Tijuana, México 🇲🇽
+Aerospace Engineer from UABC · Tijuana, México 🇲🇽
 
 I build RF systems, real-time telemetry software, and signal processing tools —
 tested in the field across four international rocketry missions (IREC/SAC).
@@ -8,7 +8,7 @@ Currently expanding into SDR and spectrum sensing.
 
 ---
 
-## 🛰️ Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---|---|
@@ -17,7 +17,7 @@ Currently expanding into SDR and spectrum sensing.
 
 ---
 
-## 🔧 Languages & Tools
+## Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -27,12 +27,12 @@ Currently expanding into SDR and spectrum sensing.
 
 ---
 
-## 📡 Areas of Interest
+## Areas of Interest
 
 `RF Systems` · `Spectrum Sensing` · `SDR` · `Real-Time Telemetry` · `Signal Processing` · `GNSS`
 
 ---
 
-## 📬 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-andrea.marichon@uabc.edu.mx-blue?style=flat&logo=gmail)](mailto:andrea.marichon@uabc.edu.mx)
