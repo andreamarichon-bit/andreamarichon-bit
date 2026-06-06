@@ -34,4 +34,4 @@ Currently expanding into SDR and spectrum sensing.
 
 ## Contact
 
-[![Email]📧 `andrea.marichon@uabc.edu.mx`]
+[![Email](https://img.shields.io/badge/Email-andrea.marichon@uabc.edu.mx-blue?style=flat&logo=gmail)]
