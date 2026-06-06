@@ -1,9 +1,9 @@
-# Hi, I'm Andrea 👋
+# Hi 👋
 
-Aerospace Engineer from UABC · Tijuana, México 🇲🇽
+Aerospace Engineer. UABC · Tijuana, México.
 
-I build RF systems, real-time telemetry software, and signal processing tools —
-tested in the field across four international rocketry missions (IREC/SAC).
+I build RF systems, real-time telemetry software, and signal processing tools.
+Hands-on experience across four international rocketry missions (IREC/SAC).
 Currently expanding into SDR and spectrum sensing.
 
 ---
@@ -21,7 +21,6 @@ Currently expanding into SDR and spectrum sensing.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
