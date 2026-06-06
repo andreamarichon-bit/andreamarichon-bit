@@ -29,7 +29,7 @@ Currently expanding into SDR and spectrum sensing.
 
 ## Areas of Interest
 
-`RF Systems` · `Spectrum Sensing` · `SDR` · `Real-Time Telemetry` · `Signal Processing` · `GNSS`
+`RF Systems` · `Spectrum Sensing` · `SDR` · `Real-Time Telemetry` · `Signal Processing` · `GNSS` · `Hardware Prototyping` · `Field Systems`
 
 ---
 
