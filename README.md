@@ -20,7 +20,6 @@ Currently expanding into SDR and spectrum sensing.
 ## Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
