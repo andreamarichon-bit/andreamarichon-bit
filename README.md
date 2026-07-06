@@ -3,7 +3,7 @@
 Aerospace Engineer. UABC · Tijuana, México.
 
 I build RF systems, real-time telemetry software, and signal processing tools.
-Hands-on experience across four international rocketry missions:.
+Hands-on experience across four international rocketry missions.
 Currently expanding into SDR and spectrum sensing.
 
 ---
